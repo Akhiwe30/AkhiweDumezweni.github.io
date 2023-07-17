@@ -1,0 +1,27 @@
+body{ font-size: large;
+    margin: 0%;
+    background-color: brown;
+
+}
+
+ul{
+    background-color: blue;
+    display: flex;
+    list-style-type: none;
+    height: 40px;
+    align-items: center;
+}
+li{
+    margin-left: 10px;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    flex-direction: row-reverse;
+    
+    
+}
